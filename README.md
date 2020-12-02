@@ -1,4 +1,4 @@
-<h1 align="center">API que consome API Github armazenando dados dos usuários</h1> 
+<h1 align="center">Consumindo API do Github e armazenando dados dos usuários</h1> 
 <p align="center">A aplicação armazenara informações a respeito dos usuários dos github (Back-end).</p>
 
 
